@@ -13,45 +13,45 @@ public class Lab12
         problem7();
     }
 
-    // 7) do 7a HERE:
+    // problem7 do cloneArray HERE:
     
-    // 3) do 3d HERE:
+    // problem3 do displayArray HERE:
 
 
     public static void problem1() {
         System.out.println("\n-- Problem 1 ----------");
-        // 1) do 1a, 1b, 1c HERE:
+        // 1) do 1, 2, 3 HERE:
         //displayArray(stuff);
     }
 
     public static void problem2() {
         System.out.println("\n-- Problem 2 ----------");
-        // 2)  do 2a, 2b, 2c HERE:
+        // 2)  do 4, 5, 6 HERE:
         //displayArray(word);
     }
 
     public static void problem3() {
         System.out.println("\n-- Problem 3 ----------");
-        // 3)  do 3a-c, 3e-h HERE:
+        // 3)  do 7, 8, 10, 11, 12, 13 HERE:
     }
 
     public static void problem4() {
         System.out.println("\n-- Problem 4 ----------");
         int[] data = {0, 1, 2, 3, 4, 5};
 
-        // 4)  do 4a - 4d HERE:
+        // 4)  do 16-19 HERE:
 
         displayArray(data);
     }
 
     public static void problem5() {
         System.out.println("\n-- Problem 5 ----------");
-        // 5) do 5a - 5e HERE
+        // 5. do 20-25 HERE
     }
 
     public static void problem6() {
         System.out.println("\n-- Problem 6 ----------");
-        // 6) do 6 HERE
+        // 6. do 26-29 HERE
     }
 
     public static void problem7() {
