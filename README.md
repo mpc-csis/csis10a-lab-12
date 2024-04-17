@@ -8,7 +8,7 @@ Clone or download this lab. It can be used via Maven and your favorite editor or
 
 ## Part A
 
-In this exercise we will practice working with arrays.  The main method is already stubbed out for you. You must implement the methods ex1 through ex7 as described below.
+In this exercise we will practice working with arrays.  The main method is already stubbed out for you. You must implement the methods ex1 through ex7 as described below. You can run your program using `mvn exec:java "-Dexec.mainClass=Lab12"`.
 
 ### `problem1()`
 
